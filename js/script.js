@@ -1,5 +1,5 @@
 // creo la variabile che origina il codice vue
-const { createApp } = vue;
+const { createApp } = Vue
 
 createApp({
 
