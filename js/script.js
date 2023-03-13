@@ -8,7 +8,7 @@ data() {
     //inserisco il return, con il quale indico cosa deve "tornare" degli elementi che immetto
     return {
         title: "ciao, sono il tuo titolo generato con Vue!",
-        Image: "assets/yarni.jpg"
+        image: "assets/yarni.jpg"
     }
 }
 
