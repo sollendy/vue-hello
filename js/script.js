@@ -1,5 +1,5 @@
 // creo la variabile che origina il codice vue
-const { createApp } = vue
+const { createApp } = vue;
 
 createApp({
 
@@ -8,6 +8,7 @@ data() {
     //inserisco il return, con il quale indico cosa deve "tornare" degli elementi che immetto
     return {
         title: "ciao, sono il tuo titolo generato con Vue!",
+        Image: "assets/yarni.jpg"
     }
 }
 
